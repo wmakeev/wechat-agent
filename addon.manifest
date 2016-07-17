@@ -1,0 +1,9 @@
+{
+  "id": "wechat-agent",
+  "js": "addon.js",
+  "title": "WeChat agent",
+  "siteName": "WeChat",
+  "siteRegexp": "web.wechat.com",
+  "shortDescription": "Send chat messages by WeChat web app from AWS SQS queue",
+  "description": "addon.md"
+}
